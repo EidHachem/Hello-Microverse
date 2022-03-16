@@ -2,14 +2,14 @@
 
 # Hello-Microverse
 
-> Saying hello everyone
+> This is my first project, it is a simple project.
+The goal of it is to learn how to use linters
 
 
 ## Built With
 
-- HTML/CSS
-- Frameworks
-- Technologies used
+- HTML and CSS
+- Git and linters
 
 ## Live Demo (if available)
 
@@ -25,20 +25,11 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
+      Good knowledge in HTML and CSS
 
 ### Setup
+      Clone the code to your computer and open the index file in a web browser
 
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
 
 👤 **Author1**
 
@@ -50,7 +41,7 @@ To get a local copy up and running follow these simple example steps.
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/EidHachem/Hello-Microverse/issues).
 
 ## Show your support
 
